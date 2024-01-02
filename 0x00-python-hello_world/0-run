@@ -1,2 +1,2 @@
 #!/bin/bash
-export PYFILE="run.py"; echo "print('Hello World!')" > "$PYFILE"; python "$PYFILE"
+python "$PYFILE"
